@@ -1,6 +1,6 @@
 ### Hi there I'm Ahmed Gharbi apprentice project manager at Agena 3000 👋
 
-<!--
+
 **ahmedgh002/ahmedgh002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
